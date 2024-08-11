@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/e8db04d0-b8e9-426e-811e-0c358d1cec8a
+
 Building a Beauty Products Website with HTML, CSS, JavaScript, PHP & MySQL
 Here's a breakdown of beauty product website with the mentioned technologies, encompassing functionalities:
 
